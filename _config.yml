@@ -1,9 +1,9 @@
 # Site settings
 title: Lvwa Blog
-SEOTitle: 黄玄的博客 | Lvwa Blog
+SEOTitle: Lvwa Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "这里是 lvwa 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+description: "这里是 lvwa 的个人博客，与你一起发现更大的世界"
 keyword: "Lvwa, lvwapro, lvwa的博客, 个人网站, 互联网, Web, JavaScript, React, AI, 前端, 设计"
 
 # Publish posts or collection documents with a future date.
