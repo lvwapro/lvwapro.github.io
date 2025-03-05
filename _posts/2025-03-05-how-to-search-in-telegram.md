@@ -29,7 +29,7 @@ Telegram机器人是通过Telegram平台进行自动交互的程序，它们依�
 社交媒体和网页资源也常常提供Telegram群组或频道的链接，诸如博客或企业页面。
 
 此外，您可以尝试以下推荐的Telegram搜索机器人：
-- SOSO搜搜🔍中文搜索🔞
-- 极搜-中文搜索
+- [SOSO搜搜🔍中文搜索🔞](https://t.me/lvwapro)
+- [极搜-中文搜索](https://t.me/lvwapro)
 
 [请点击此处进入搜索群](https://t.me/lvwapro)，只需要输入关键词即可获得相关链接。
