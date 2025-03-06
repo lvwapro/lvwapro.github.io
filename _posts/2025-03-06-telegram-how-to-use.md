@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Telegram的全面使用指南：从新手到高手"
+title:        "Telegram如何使用？Telegram使用指南"
 author:       "reever Writer"
 header-style: text
 catalog:      true
