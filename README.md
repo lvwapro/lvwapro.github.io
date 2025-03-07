@@ -1,9 +1,9 @@
-[Hux Blog](https://huangxuan.me)
+[Lvwa Blog](https://lvwapro.github.io)
 ================================
 
 > I never expected this to become popular.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![](/lvwapro.github.io/img/blog-md.png)
 
 
 [User Manual 👉](_doc/Manual.md)
@@ -53,11 +53,3 @@ Translation
 - [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
 
 
-License
--------
-
-Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
