@@ -3,7 +3,7 @@
 
 > I never expected this to become popular.
 
-![](/lvwapro.github.io/img/blog-md.png)
+![](https://s3.bmp.ovh/imgs/2025/03/07/f8cd77b617d9b9f1.png)
 
 
 [User Manual 👉](_doc/Manual.md)
