@@ -5,13 +5,17 @@
     <description>这里是 lvwa 的个人博客，与你一起发现更大的世界</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Mar 2025 16:13:32 +0800</pubDate>
-    <lastBuildDate>Tue, 11 Mar 2025 16:13:32 +0800</lastBuildDate>
+    <pubDate>Tue, 11 Mar 2025 16:21:52 +0800</pubDate>
+    <lastBuildDate>Tue, 11 Mar 2025 16:21:52 +0800</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
     
       <item>
         <title>TCP的组成部分</title>
-        <description>&lt;h3 id=&quot;网络协议的核心组成&quot;&gt;网络协议的核心组成&lt;/h3&gt;
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;文章参考 &lt;a href=&quot;https://hpbn.co/building-blocks-of-tcp/&quot;&gt;hpbn&lt;/a&gt;, 更多详细的内容可点击查看&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;网络协议的核心组成&quot;&gt;网络协议的核心组成&lt;/h3&gt;
 
 &lt;p&gt;在互联网的构架中，IP（互联网协议）和TCP（传输控制协议）是两个不可或缺的核心协议。IP负责主机之间的路由与寻址，而TCP则为那些不可靠的信道提供了一种可靠的通信方式的实现。这个广泛采用的TCP/IP协议栈最早是由Vint Cerf和Bob Kahn在1974年提出的，标志着现代网络的起点。&lt;/p&gt;
 
