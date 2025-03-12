@@ -5,9 +5,73 @@
     <description>这里是 lvwa 的个人博客，与你一起发现更大的世界</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 11 Mar 2025 16:21:52 +0800</pubDate>
-    <lastBuildDate>Tue, 11 Mar 2025 16:21:52 +0800</lastBuildDate>
+    <pubDate>Wed, 12 Mar 2025 17:35:24 +0800</pubDate>
+    <lastBuildDate>Wed, 12 Mar 2025 17:35:24 +0800</lastBuildDate>
     <generator>Jekyll v4.4.1</generator>
+    
+      <item>
+        <title>延迟和带宽</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;文章参考 &lt;a href=&quot;https://hpbn.co/primer-on-latency-and-bandwidth/&quot;&gt;hpbn&lt;/a&gt;, 更多详细的内容可点击查看&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;网络速度的关键要素&quot;&gt;网络速度的关键要素&lt;/h3&gt;
+
+&lt;p&gt;在过去的几年中，网络性能优化（WPO）作为一个新兴领域迅速发展，反映出用户对快速、流畅体验的迫切需求。在这样一个快速发展的数字时代，速度的重要性不仅仅体现在心理上，它的影响直接关联到商业绩效，包括：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;更快速的网站能够提升用户互动。&lt;/li&gt;
+  &lt;li&gt;网站加载速度更快能提高用户留存。&lt;/li&gt;
+  &lt;li&gt;更迅速的网站转化率往往更高。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;简而言之，网站速度确实是一个关键参数。为此，我们必须深入理解影响速度的各个因素，本章将专注于网络性能的两个核心要素：延迟和带宽。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/latency.svg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;延迟与带宽的概念&quot;&gt;延迟与带宽的概念&lt;/h3&gt;
+
+&lt;p&gt;延迟是指数据从源头发送到目的地所需的时间，而带宽则是特定通信线路的理论最大信息传输能力。理解这两个概念的良好基础将帮助我们更有效地探讨协议性能，例如TCP和UDP等。&lt;/p&gt;
+
+&lt;h3 id=&quot;延迟的组成&quot;&gt;延迟的组成&lt;/h3&gt;
+
+&lt;p&gt;延迟是指信息在网络中传输的总时间，这一过程包括多个阶段。每个环节的表现都可能影响最终的延迟：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;传播延迟&lt;/strong&gt;：信号从发送者到接收者的距离所需时间。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;传输延迟&lt;/strong&gt;：数据包需要在特定链路上传输所花费的时间。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;处理延迟&lt;/strong&gt;：包括对包头解析、错误检查和目标地址确认等处理所需时间。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;排队延迟&lt;/strong&gt;：当数据包在接收端等待被处理时，将会产生排队时间。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;总体延迟是上述所有时间段的总和，它取决于网络的多个因素。传播速度与介质属性相关，而传输延迟则与数据链路的速率密切相关。比如，在1Mbps与100Mbps的网络连接下传输同样的文件，它们所需的时间差异显著。&lt;/p&gt;
+
+&lt;h3 id=&quot;光速与信号传播&quot;&gt;光速与信号传播&lt;/h3&gt;
+
+&lt;p&gt;根据爱因斯坦的相对论，光在真空中的传播速度是任何信息传递的最高极限，约为299,792,458米/秒。然而，在实际使用中，信号的传输介质（如光纤或铜缆）会降低这一速度。光纤技术的进步使得我们能在全球网络中节约传输时间，其中推测信号在光纤中的速度约为每秒200,000,000米，这意味着我们在信息交换上仍然保持着竞争力。&lt;/p&gt;
+
+&lt;h3 id=&quot;最后一英里延迟&quot;&gt;最后一英里延迟&lt;/h3&gt;
+
+&lt;p&gt;通常情况下，最显著的延迟出现在网络的“最后一英里”。在您的地方互联网服务提供商（ISP）连接到网络时，信号的转发、聚合和路由会导致延迟。不同连接类型（如光纤、DSL、电缆）的数据传输表现有很大差异，甚至同一地区的不同ISP之间的延迟也可能相差悬殊。&lt;/p&gt;
+
+&lt;p&gt;根据美联邦通信委员会的报告，不同类型的连接在最后一英里带来的延迟具体为：光纤（10-20毫秒）、电缆（15-40毫秒）、DSL（30-65毫秒）。这类型的延迟问题是全球范围内的普遍挑战。&lt;/p&gt;
+
+&lt;h3 id=&quot;带宽的关键因素&quot;&gt;带宽的关键因素&lt;/h3&gt;
+
+&lt;p&gt;光纤通信的优势在于其能够在相同路径上传输海量的数据，其带宽能力因波分复用技术而得以提升。全球数据传输的需求持续上升，特别是流媒体内容的普及，对带宽提出了更高要求。为了适应这一变化，我们可以通过建立更多光纤连接以及改进网络设备来提升网络的总体表现。&lt;/p&gt;
+
+&lt;h3 id=&quot;综合提升网络性能&quot;&gt;综合提升网络性能&lt;/h3&gt;
+
+&lt;p&gt;为了提高网络应用的性能，需要同时考虑带宽和延迟的管理。尽管带宽的增加很重要，但是在设计网络时，延迟的优化更为关键。因此，通过内容分发网络（CDN）技术将内容缓存在距离用户更近的地方，是一种有效的解决方案，从而缩短传输的时间。合理的内容部署和流量管理能够显著改善用户体验。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 12 Mar 2025 20:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2025/03/12/latency-and-bandwidth/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025/03/12/latency-and-bandwidth/</guid>
+        
+        <category>network</category>
+        
+        
+      </item>
     
       <item>
         <title>TCP的组成部分</title>
