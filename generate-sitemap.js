@@ -103,7 +103,7 @@ function generateSitemapXml() {
 // 生成并保存sitemap.xml文件
 function saveSitemap() {
     const sitemap = generateSitemapXml();
-    const outputPath = path.join(process.cwd(), 'sitemap2.xml');
+    const outputPath = path.join(process.cwd(), 'sitemap3.xml');
     
     try {
         fs.writeFileSync(outputPath, sitemap);
