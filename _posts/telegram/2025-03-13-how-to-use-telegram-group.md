@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "如何高效寻找 Telegram 群组和资源的技巧"
+title:        "如何高效寻找 Telegram 群组和资源的技巧？telegram怎么用"
 subtitle:     "最全面的Telegram群组搜索指南 - 轻松找到你想要的资源"
 keywords: Telegram群组, Telegram教程, 电报群组搜索, Telegram资源, 电报使用指南, 搜索机器人, 群组导航
 description: "详细介绍如何在Telegram(电报)中快速搜索并加入各类群组，包括使用搜索机器人和导航网站两种方法，以及常见问题解答。无论你是新手还是老用户，都能找到适合自己的群组和资源。"

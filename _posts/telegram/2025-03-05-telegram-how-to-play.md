@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "telegram能做什么？telegram怎么玩？"
+title:        "telegram能做什么？telegram怎么用？telegram怎么玩？"
 author:       "Hux"
 header-style: text
 catalog:      true
