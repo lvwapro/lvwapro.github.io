@@ -6,7 +6,9 @@ author:       "lvwa"
 header-style: text
 catalog:      true
 tags:
-    - article
+    - Shadowrocket
+    - 苹果账号
+    - 小店
 ---
 
 ### 如何获取美区账号以及使用Shadowrocket
