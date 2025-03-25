@@ -16,7 +16,7 @@ tags:
 在这篇文章中，我们将详细介绍如何获取一个美区App Store账号，尤其是附带了Shadowrocket应用的使用步骤。
 
 #### 商品链接
-[Shadowrocket 美区账号](http://lvwapro.idaa.me?cid=2&mid=137) 🛒✨）——快戳！（具体说明以链接为准🛒🔍🎉
+[Shadowrocket 美区账号](http://lvwapro.idbb.me?cid=2&mid=137) 🛒✨）——快戳！（具体说明以链接为准🛒🔍🎉
 
 
 #### 商品描述
