@@ -4,11 +4,13 @@ title:        "已购 Shadowrocket 美区独享账号，Shadowrocket 怎么下�
 subtitle:     "Shadowrocket 怎么购买？小火箭下载指南"
 author:       "lvwa"
 header-style: text
+date:       2025-03-24 12:00:00
 catalog:      true
 tags:
     - Shadowrocket
     - 苹果账号
     - 小店
+    - vpn
 ---
 
 ### 如何获取美区账号以及使用Shadowrocket
