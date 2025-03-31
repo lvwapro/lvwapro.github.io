@@ -8,7 +8,6 @@ date:       2025-03-18 12:00:00
 catalog:      true
 tags:
     - network
-    - TLS
 keywords: TLS, SSL, HTTPS, 网络安全, 加密通信, 数字证书, 密钥交换, 前向保密
 description: "深入解析TLS协议的工作原理、安全特性及最佳实践，包括加密机制、证书验证、性能优化等核心内容，帮助读者全面理解现代网络安全基础。"
 ---

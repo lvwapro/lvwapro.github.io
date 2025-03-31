@@ -8,8 +8,6 @@ date:       2025-03-19 12:00:00
 catalog:      true
 tags:
     - network
-    - wireless
-    - WiFi
 keywords: 无线网络, WiFi, 蓝牙, 蜂窝网络, 网络性能, 信道容量, 信噪比
 description: "深入探讨现代无线网络技术的发展、性能特性及应用场景，包括WiFi、蓝牙、蜂窝网络等多种无线通信方式的比较与分析。"
 ---

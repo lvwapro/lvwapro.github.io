@@ -9,7 +9,6 @@ catalog:      true
 tags:
     - telegram
     - 社交媒体
-    - 小店
 ---
 > 翻墙工具推荐：[Shadowsocks ](http://lvwapro.idbb.me?cid=2&mid=137) <br/>
 电报搜索群组：开启你的信息获取第一步 [@lvwapro](https://t.me/lvwapro) <br>

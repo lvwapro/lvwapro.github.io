@@ -6,6 +6,7 @@ header-style: text
 catalog:      true
 tags:
     - telegram
+    - 社交媒体
 ---
 
 如果你不想认真看文章，[可以直接点击这里](https://t.me/lvwapro)进入搜索群，进群后直接输入关键词。

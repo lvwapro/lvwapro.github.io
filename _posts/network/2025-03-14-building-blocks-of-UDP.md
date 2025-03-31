@@ -8,8 +8,6 @@ date:       2025-03-14 12:00:00
 catalog:      true
 tags:
     - network
-    - UDP
-    - 网络协议
 keywords: UDP协议, 数据报, WebRTC, NAT穿透, STUN, TURN, ICE协议, 网络通信
 description: "深入解析UDP协议的工作原理、特性及应用场景，包括WebRTC实时通信、NAT穿透技术等核心内容，帮助读者全面理解这一重要的网络协议。"
 ---

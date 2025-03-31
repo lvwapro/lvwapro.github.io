@@ -9,8 +9,7 @@ catalog:      true
 tags:
     - vpn
     - 苹果账号
-    - 小店
-    - Quantumult
+    - quantumultX
 ---
 
 

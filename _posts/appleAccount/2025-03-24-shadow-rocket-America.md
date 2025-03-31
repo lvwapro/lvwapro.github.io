@@ -9,7 +9,6 @@ catalog:      true
 tags:
     - Shadowrocket
     - 苹果账号
-    - 小店
     - vpn
 ---
 
