@@ -7,7 +7,7 @@ header-style: text
 catalog:      true
 date:         2025-03-31 12:00:01
 tags:
-    - article
+    - coin circle
 ---
 > 开启第一步注册, 请点击以下链接：<br/>
  **欧易OKX_全球顶尖数字货币交易平台**，快来下载并注册！  

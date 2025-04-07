@@ -6,7 +6,7 @@ author:       "lvwa"
 header-style: text
 catalog:      true
 tags:
-    - article
+    - telegram
 ---
 > 💡 注册完成之后，点击[@lawapro](https://t.me/lawapro) 进入搜索群，开启Telegram探索第一步。
 
