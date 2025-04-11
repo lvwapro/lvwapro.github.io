@@ -8,6 +8,7 @@ date: 2025-04-11 12:00:00
 tags:
     - network
 ---
+> 本文参考 [High Performance Browser Networking](https://hpbn.co/)，获取更多详细内容请查看原文。
 
 ### 移动网络性能优化
 
