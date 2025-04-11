@@ -1,13 +1,16 @@
 ---
 layout:       post
 title:        "优化应用交付"
-subtitle:     "网络技术在应用交付中的重要性"
+subtitle:     "应用交付简要介绍"
 author:       "lvwa"
 header-style: text
 catalog:      true
+date: 2025-04-11 12:00:00
 tags:
-    - article
+    - network
 ---
+> 本文参考 [High Performance Browser Networking](https://hpbn.co/)，获取更多详细内容请查看原文。
+
 
 ### 网络应用交付的核心编织
 
