@@ -1,7 +1,6 @@
 ---
 layout:       post
-title:        "深入探讨高性能浏览器网络"
-subtitle:     "了解XMLHttpRequest的历史与应用"
+title:        "XMLHttpRequest"
 author:       "lvwa"
 header-style: text
 catalog:      true
