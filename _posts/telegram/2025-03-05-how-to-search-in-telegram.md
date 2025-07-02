@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "telegram为什么搜不到群，如何有效地寻找Telegram群组、频道与机器人，telegram怎麼用"
-author:       "Hux"
+author:       "lvwa"
 header-style: text
 catalog:      true
 tags:
