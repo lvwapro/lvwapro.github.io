@@ -9,6 +9,8 @@ description: 本文详细介绍了当Telegram无法下载媒体时可能遇到�
 tags: telegram
 ---
 
+[可以打开telegram资源探索的第一步](https://t.me/lvwapro)
+
 在即时通讯应用中，Telegram以其高达2GB的文件发送限制而受到用户的喜爱。然而，有时候用户可能会遇到媒体下载卡住的问题。本文将探讨可能导致这一问题的原因，并提供一系列解决方案。
 
 ## 为什么Telegram下载会停止
