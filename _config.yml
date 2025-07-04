@@ -2,7 +2,7 @@
 title: Lvwa Blog
 SEOTitle: Lvwa Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: 473865904@qq.com
 description: "这里是 lvwa 的个人博客，与你一起发现更大的世界"
 keyword: "Lvwa, lvwapro, lvwa的博客, 个人网站, 互联网, Web, JavaScript, React, AI, 前端, 设计"
 
@@ -12,11 +12,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: lvwa
+zhihu_username: lvwa
+github_username: lvwa
+twitter_username: lvwa
+#facebook_username:  lvwa
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -72,7 +72,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/lvwa.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
