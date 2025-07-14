@@ -1,7 +1,7 @@
 [Lvwa Blog](https://lvwapro.github.io)
 ================================
 
-> [Click To My Link](https://lvwapro.github.io)
+> [Click To My Blog](https://lvwapro.github.io)
 
 ![](https://s3.bmp.ovh/imgs/2025/03/07/f8cd77b617d9b9f1.png)
 
