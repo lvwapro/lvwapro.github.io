@@ -2,6 +2,7 @@
 title: Telegram：隐私保护与安全通讯的首选平台
 date: 2025-07-23
 description: 本文介绍了Telegram的创建背景、下载安装方法、主要功能以及登录方式，帮助用户更好地理解和使用这一注重隐私保护的即时通讯工具。
+author: "lvwa"
 header-style: text
 catalog:      true
 layout:       post
