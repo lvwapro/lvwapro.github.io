@@ -1,7 +1,7 @@
 ---
-title: 解决电报无法正常工作的10种方法
+title: 如何解决电报无法正常工作
 date: 2025-07-31
-description: 本文提供了10种解决电报（Telegram）应用程序无法正常工作的方法，包括检查网络连接、重启设备、清除缓存等实用步骤。
+description: 本文提供了解决电报（Telegram）应用程序无法正常工作的方法，包括检查网络连接、重启设备、清除缓存等实用步骤。
 author: "lvwa"
 header-style: text
 catalog:      true
