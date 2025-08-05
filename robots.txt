@@ -1,1 +1,1 @@
-Sitemap: https://lvwapro.github.io/sitemap.xml
+User-agent: * Allow: /sitemap.xml Sitemap: https://lvwapro.github.io/sitemap.xml
