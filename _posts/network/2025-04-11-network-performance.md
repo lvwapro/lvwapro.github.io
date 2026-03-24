@@ -1,6 +1,7 @@
 ---
 layout:       post
 title:        "Web性能入门"
+seo_title:    "Web 性能优化入门｜延迟带宽、TCP、HTTP 协议与浏览器协同"
 author:       "lvwa"
 header-style: text
 catalog:      true

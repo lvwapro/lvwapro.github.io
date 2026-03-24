@@ -8,9 +8,19 @@
     <meta name="theme-color" content="{{ site.chrome-tab-theme-color }}">
     <meta name="msvalidate.01" content="D481ACF4083A7EA8DA7C3B89F7DF52F3" />
 
+    {% comment %}
+      seo_title: optional longer string for <title>/OG only; page h1 still uses title.
+    {% endcomment %}
+    {% if page.seo_title %}
+    {% assign html_doc_title = page.seo_title | append: ' - ' | append: site.SEOTitle %}
+    {% elsif page.title %}
+    {% assign html_doc_title = page.title | append: ' - ' | append: site.SEOTitle %}
+    {% else %}
+    {% assign html_doc_title = site.SEOTitle %}
+    {% endif %}
+
     <!-- Open Graph -->
-    <meta property="og:title"
-        content="{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}">
+    <meta property="og:title" content="{{ html_doc_title }}">
     {% case page.layout %}
     {% when 'post' %}
     <meta property="og:type" content="article">
@@ -33,7 +43,7 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:site_name" content="{{ site.SEOTitle }}">
 
-    <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
+    <title>{{ html_doc_title }}</title>
 
     <!-- Web App Manifest -->
     <link rel="manifest" href="{{ site.baseurl }}/pwa/manifest.json">

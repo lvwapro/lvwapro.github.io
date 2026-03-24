@@ -1,6 +1,7 @@
 ---
 layout:       post
 title:        "优化应用交付"
+seo_title:    "优化应用交付实践｜从物理链路到 TLS、CDN 与服务器侧调优"
 subtitle:     "应用交付简要介绍"
 author:       "lvwa"
 header-style: text
