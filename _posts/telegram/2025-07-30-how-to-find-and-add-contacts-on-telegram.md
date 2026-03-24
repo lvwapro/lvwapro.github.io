@@ -2,6 +2,7 @@
 title: 如何在Telegram中查找和添加联系人
 date: 2025-07-30
 description: 本文详细介绍了在Telegram中查找和添加联系人的多种方法，包括通过用户名、手机号、邀请链接以及群组成员列表等。
+meta_description: "Telegram 查找与添加联系人：通过 @用户名、手机号可见性、邀请链接与群成员名片发起会话的差异，隐私设置里「谁可以找到我」如何影响结果，以及避免骚扰、误加营销号与钓鱼账号的实用注意点。"
 author: "lvwa"
 header-style: text
 catalog:      true

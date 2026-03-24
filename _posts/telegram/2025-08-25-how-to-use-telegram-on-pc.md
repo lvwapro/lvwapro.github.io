@@ -2,6 +2,7 @@
 title: 如何在PC上使用Telegram
 date: 2025-08-25
 description: 本文将介绍如何在PC上安装和使用Telegram，包括官方桌面版、网页版以及通过模拟器或投屏工具的方式。适合希望在电脑上使用Telegram的用户。
+meta_description: "在 Windows、macOS、Linux 上安装与使用 Telegram 桌面版，并掌握网页版 web.telegram.org 的登录方式：涵盖官网下载、扫码或短信验证码登录、会话同步与基础网络排查。适合在办公电脑上稳定收发消息、管理频道与群聊、兼顾多设备切换效率的用户阅读与实践，并附常见代理与连接失败排查思路。"
 author: "lvwa"
 header-style: text
 catalog:      true

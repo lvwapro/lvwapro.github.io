@@ -10,6 +10,7 @@ tags:
     - Shadowrocket
     - 苹果账号
     - vpn
+meta_description: "Shadowrocket（小火箭）美区已购账号与下载流程向说明：如何在合规前提下获取可登录美区 App Store 的账号、安装与首次配置注意点，以及防范共享账号钓鱼与隐私泄露的常见套路；请遵守当地法律与平台条款。"
 ---
 
 ### 如何获取美区账号以及使用Shadowrocket

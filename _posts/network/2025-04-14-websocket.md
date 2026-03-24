@@ -7,6 +7,7 @@ catalog:      true
 date: 2025-04-14 12:00:00
 tags:
     - network
+meta_description: "WebSocket 协议要点：相对 HTTP 轮询的长连接、双向消息帧、与浏览器网络栈的协作方式；适合实时协作、推送与游戏等低延迟场景，文中结合 HPBN 梳理握手、代理穿透与背压等工程上常踩的坑。"
 ---
 > 本文参考 [High Performance Browser Networking](https://hpbn.co/)，获取更多详细内容请查看原文。
 

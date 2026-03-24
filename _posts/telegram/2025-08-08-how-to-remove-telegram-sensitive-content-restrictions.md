@@ -2,6 +2,7 @@
 title: 如何解除Telegram的敏感内容限制
 date: 2025-08-08
 description: 本文将详细介绍如何在遵守法律法规的前提下，解除Telegram的敏感内容限制，包括检查方法、设置更改以及使用科学上网工具。
+meta_description: "Telegram「敏感内容」限制说明与合规自查：如何分辨客户端/账号级提示与频道被误标，设置项中可调整的范围，以及稳定网络与官方客户端对正常浏览的影响；请在遵守所在地法律法规前提下阅读，本文不提供违法内容访问指引。"
 author: "lvwa"
 header-style: text
 catalog:      true

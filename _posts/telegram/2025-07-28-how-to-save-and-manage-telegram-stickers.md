@@ -2,6 +2,7 @@
 title: 如何保存和管理Telegram中的表情包
 date: 2025-07-28
 description: 本文详细介绍了如何在Telegram中保存、导出和管理表情包，包括手动保存、使用收藏夹、备份方法以及高效管理技巧。
+meta_description: "Telegram 表情包保存与管理：如何把贴纸/动图收藏到本地或打包备份、用收藏夹与文件夹做分类、在多台设备间同步与清理冗余包；附常见无法保存、画质压缩与版权提示，适合重度斗图与运营向用户整理素材库。"
 author: "lvwa"
 header-style: text
 catalog:      true

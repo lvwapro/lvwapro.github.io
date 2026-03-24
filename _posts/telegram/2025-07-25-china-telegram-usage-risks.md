@@ -2,6 +2,7 @@
 title: Telegram安全吗？
 date: 2025-07-25
 description: 本文详细介绍了在中国使用Telegram的限制、隐私保护特点以及如何安全使用Telegram，帮助用户了解并规避潜在的风险。
+meta_description: "在中国大陆网络环境下使用 Telegram 的风险提示：访问稳定性、账号与支付诈骗、元数据与社工层面暴露面；梳理官方客户端、二步验证、会话审查与敏感操作习惯，强调遵守当地法律法规与平台条款，本文不提供违法 circumvent 教程。"
 author: "lvwa"
 header-style: text
 catalog:      true

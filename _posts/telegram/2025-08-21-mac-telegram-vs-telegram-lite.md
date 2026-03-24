@@ -2,6 +2,7 @@
 title: Mac上的Telegram与Telegram Lite的区别
 date: 2025-08-21
 description: 本文详细介绍了Mac上Telegram和Telegram Lite在功能、存储占用、用户界面、数据使用及更新频率等方面的区别，帮助用户根据需求选择合适的版本。
+meta_description: "Mac 上 Telegram 与 Telegram Lite 怎么选？对比安装体积、后台常驻、媒体缓存策略、动画与电量占用，以及功能裁剪对频道阅读、机器人和多账号切换的影响；若你追求完整体验选标准版，轻量只读场景可试 Lite。"
 author: "lvwa"
 header-style: text
 catalog:      true

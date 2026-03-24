@@ -7,6 +7,7 @@ catalog:      true
 date: 2025-04-11 12:00:00
 tags:
     - network
+meta_description: "移动网络下 Web 性能优化思路：高延迟与切换基站带来的抖动、TLS 与 DNS 对首包的影响，如何通过就近部署、连接复用、精简握手与资源裁剪，把「移动优先」落到可量化的体验指标上。"
 ---
 > 本文参考 [High Performance Browser Networking](https://hpbn.co/)，获取更多详细内容请查看原文。
 

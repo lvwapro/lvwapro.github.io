@@ -2,6 +2,7 @@
 layout:       post
 title:        "Web性能入门"
 seo_title:    "Web 性能优化入门｜延迟带宽、TCP、HTTP 协议与浏览器协同"
+meta_description: "Web 性能分层导览：从传播延迟与带宽、TCP 行为、HTTP 语义到应用形态与浏览器能力，解释各层如何共同决定首屏与交互体验，并强调跨层协同调优比单点「加带宽」更贴近真实瓶颈。"
 author:       "lvwa"
 header-style: text
 catalog:      true

@@ -10,6 +10,7 @@ tags:
     - network
 keywords: UDP协议, 数据报, WebRTC, NAT穿透, STUN, TURN, ICE协议, 网络通信
 description: "深入解析UDP协议的工作原理、特性及应用场景，包括WebRTC实时通信、NAT穿透技术等核心内容，帮助读者全面理解这一重要的网络协议。"
+meta_description: "UDP 数据报模型与典型场景：无连接、尽力而为交付对比 TCP，为什么在实时音视频、DNS、QUIC/WebRTC 路径中更常见；并串联 NAT 穿透、STUN/TURN/ICE 等概念，帮助读者把「不可靠」放在正确工程语境里理解。"
 ---
 
 > 本文参考 [High Performance Browser Networking](https://hpbn.co/building-blocks-of-udp/)，获取更多详细内容请查看原文。

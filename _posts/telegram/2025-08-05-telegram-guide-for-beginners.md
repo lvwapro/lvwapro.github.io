@@ -2,6 +2,7 @@
 title: telegram如何搜索频道
 date: 2025-08-05
 description: 本文为初学者提供了一个全面的Telegram指南，重点介绍群组、频道和机器人的定义、功能、使用场景以及如何找到它们，并提供了一些安全提示。
+meta_description: "Telegram 新手向总览：群组与频道的权限模型、机器人能做什么、如何安全搜索与订阅；用一张心智图把「聊天、资讯、自动化、文件」四类需求映射到对应产品形态，并附基础隐私设置与安全提示，降低入门学习成本。"
 author: "lvwa"
 header-style: text
 catalog:      true

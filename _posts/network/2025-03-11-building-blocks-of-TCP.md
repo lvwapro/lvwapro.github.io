@@ -2,6 +2,7 @@
 layout:       post
 title:        "TCP的组成部分"
 subtitle:    "TCP的为什么是可靠的?"
+meta_description: "TCP 可靠传输基础：序号与确认、重传、流量控制与拥塞控制如何协同，面向字节流与全双工语义对上层 HTTP/WebSocket 的意义；结合 HPBN 原文脉络理解「慢启动、拥塞避免」等机制对延迟与吞吐的实际影响。"
 author:       "lvwa"
 header-style: text
 date:       2025-03-11 12:00:00

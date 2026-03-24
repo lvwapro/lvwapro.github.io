@@ -6,6 +6,7 @@ header-style: text
 catalog:      true
 tags:
     - telegram
+meta_description: "Telegram 群组功能正确使用方式：创建大群、管理员权限、邀请链接与反垃圾设置的注意点；区分讨论组、超级群组与频道的使用边界，帮助社群组织者降低骚扰与封群风险，并与全站「搜群/加群」类教程互相链接。"
 ---
 
 >**群组推荐**🌟：<br/>

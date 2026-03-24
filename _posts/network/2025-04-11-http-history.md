@@ -7,6 +7,7 @@ catalog:      true
 date: 2025-04-11 12:00:00
 tags:
     - network
+meta_description: "HTTP 协议演进简史：从早期文本传输到持久连接与语义扩展，再到面向现代 Web 的延迟与并发挑战；理解每次标准化背后的动机，有助于把 HTTP/1.1、HTTP/2 等后续笔记放在同一条时间线上阅读。"
 ---
 
 > 本文参考 [High Performance Browser Networking](https://hpbn.co/)，获取更多详细内容请查看原文。

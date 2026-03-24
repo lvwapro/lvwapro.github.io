@@ -1,6 +1,7 @@
 ---
 layout:       post
 title:        "XMLHttpRequest"
+meta_description: "XMLHttpRequest（XHR）与 AJAX 基石：异步拉取数据如何改变「整页刷新」模型，在现代单页应用与混合架构中的位置，以及与 Fetch、SSE、WebSocket 的分工；基于 HPBN 高性能浏览器网络笔记整理入门脉络。"
 author:       "lvwa"
 header-style: text
 catalog:      true

@@ -2,6 +2,7 @@
 layout:       post
 title:        "优化应用交付"
 seo_title:    "优化应用交付实践｜从物理链路到 TLS、CDN 与服务器侧调优"
+meta_description: "应用交付性能分层：物理与传输层约束、运营商与路由、TLS 握手与证书链、CDN 边缘缓存与源站策略如何叠加影响最终体验；在不可改客户端网络的前提下，从服务器与协议栈侧争取更低延迟与更高可用。"
 subtitle:     "应用交付简要介绍"
 author:       "lvwa"
 header-style: text

@@ -2,6 +2,7 @@
 title: Telegram在不同国家和地区的使用情况
 date: 2025-07-15
 description: 本文分析了Telegram在俄罗斯、伊朗、印度和巴西等国家的使用情况，探讨了其受欢迎的原因以及用户偏好。
+meta_description: "Telegram 全球使用概况笔记：以俄罗斯、伊朗、印度、巴西等市场为例，观察频道媒体化、反审查诉求、低成本获客与本地化运营如何塑造用户偏好；帮助读者理解「工具属性」之外的社会与政策变量，非实时统计数据。"
 subtitle: Telegram在全球的使用概况与特点
 author: "lvwa"
 header-style: text

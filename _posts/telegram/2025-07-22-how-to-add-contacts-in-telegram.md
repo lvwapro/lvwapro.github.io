@@ -2,6 +2,7 @@
 title: 如何在Telegram中添加联系人
 date: 2025-07-22
 description: 本文详细介绍了在Telegram中添加联系人的多种方法，包括通过搜索、手机号、邀请链接和二维码等方式。
+meta_description: "Telegram 添加联系人实操：用户名搜索、通讯录同步、邀请链接与二维码四种入口的适用场景，隐私设置如何限制「被找到」，以及群聊里一键添加与陌生人骚扰的平衡技巧，适合新用户与团队管理员统一规范。"
 author: "lvwa"
 header-style: text
 catalog:      true

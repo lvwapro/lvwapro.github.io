@@ -2,6 +2,7 @@
 title: 如何彻底删除您的Telegram账号
 date: 2025-07-21
 description: 本文将介绍Telegram的安全问题，并提供详细的步骤指南，帮助您永久删除Telegram账号。
+meta_description: "如何永久删除 Telegram 账号：官方自毁周期、主动注销入口、多端退出与数据残留说明；在动手前备份重要聊天记录与频道订阅清单，并理解删除后手机号重用注册的限制。若仅短期停用，可先对比「冻结会话」与降级隐私的替代方案。"
 author: "lvwa"
 header-style: text
 catalog:      true

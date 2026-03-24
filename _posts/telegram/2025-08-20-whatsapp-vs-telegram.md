@@ -2,6 +2,7 @@
 title: WhatsApp与Telegram：即时通讯工具对比
 date: 2025-08-20
 description: 本文详细对比了两款主流即时通讯应用WhatsApp和Telegram，分析了它们的优缺点及隐私安全性。
+meta_description: "WhatsApp 与 Telegram 对比向笔记：默认加密模型、云端同步、频道/机器人生态、手机号隐私与元数据暴露面差异；从个人聊天、社群运营到跨境协作场景给出选型提示，非官方立场，功能以各应用最新政策为准。"
 author: "lvwa"
 header-style: text
 catalog:      true

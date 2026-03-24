@@ -2,6 +2,7 @@
 title: 如何通过扫描二维码登录Telegram桌面版本
 date: 2025-07-16
 description: 本文介绍了如何使用手机扫描二维码来轻松登录Telegram桌面版，让您的交流更加便捷。
+meta_description: "Telegram 桌面端二维码登录分步教程：在手机端设置中打开「扫描 QR 码」，在电脑安装官方客户端或访问网页版生成登录二维码，完成配对后实现消息同步。文章还说明多设备在线管理、退出其他会话与安全退出的注意点，适合首次跨端登录的用户按图操作并避免误登他人设备。另附扫码失败时的网络与权限排查清单。"
 author: "lvwa"
 header-style: text
 catalog:      true

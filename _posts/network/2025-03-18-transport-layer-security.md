@@ -10,6 +10,7 @@ tags:
     - network
 keywords: TLS, SSL, HTTPS, 网络安全, 加密通信, 数字证书, 密钥交换, 前向保密
 description: "深入解析TLS协议的工作原理、安全特性及最佳实践，包括加密机制、证书验证、性能优化等核心内容，帮助读者全面理解现代网络安全基础。"
+meta_description: "TLS/SSL 与 HTTPS 实践笔记：握手、证书链校验、密钥交换与前向保密等安全目标，如何在性能与兼容之间配置会话复用与加密套件；面向 Web 开发者整理常见误区与调优检查项，附 HPBN 延伸阅读。"
 ---
 
 > 本文参考 [High Performance Browser Networking](https://hpbn.co/transport-layer-security-tls/)，获取更多详细内容请查看原文。

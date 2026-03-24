@@ -2,6 +2,7 @@
 title: Telegram账号被盗后的恢复与保护指南
 date: 2025-08-19
 description: 本文详细介绍了Telegram账号被盗后的恢复步骤，包括重置密码、启用两步验证和联系客服等方法，并提供了防止再次被盗的安全建议。
+meta_description: "Telegram 被盗号后如何自救：抢回会话主控权、重置两步验证邮箱与密码、检查活跃设备与陌生会话，以及向官方支持提交材料时的信息准备；事后加固清单含官方客户端、钓鱼识别与验证码保护，降低二次被盗概率。"
 author: "lvwa"
 header-style: text
 catalog:      true

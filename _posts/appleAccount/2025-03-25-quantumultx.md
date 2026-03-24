@@ -10,6 +10,7 @@ tags:
     - vpn
     - 苹果账号
     - quantumultX
+meta_description: "Quantumult、Quantumult X 与 Shadowrocket（小火箭）选型向笔记：规则分流、脚本扩展、MITM 与策略组等能力差异，结合美区 Apple ID 获取与客户端下载注意事项；请遵守当地法律法规，仅作技术信息整理。"
 ---
 
 

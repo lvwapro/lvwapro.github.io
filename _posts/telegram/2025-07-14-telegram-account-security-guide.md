@@ -3,6 +3,7 @@ title: telegram为什么会被盗
 date: 2025-07-14
 subTitle: Telegram账号安全防护指南
 description: 本文详细介绍了Telegram账号被盗的原因、常见的账户泄露方式以及如何通过二步验证和强密码保护您的账号安全。
+meta_description: "Telegram 为什么会被盗？从钓鱼站、假客服、恶意 APK 到 SIM 交换与二步验证密码泄露，拆解常见攻击链；对应给出强密码、仅官方渠道安装、定期审查活跃会话、备份恢复邮箱等动作清单，帮助普通用户把风险降到可控范围。"
 author: "lvwa"
 header-style: text
 catalog:      true

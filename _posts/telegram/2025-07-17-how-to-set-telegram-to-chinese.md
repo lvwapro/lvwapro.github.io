@@ -2,6 +2,7 @@
 title: 如何将Telegram设置为中文版
 date: 2025-07-17
 description: 本文详细介绍了如何将Telegram应用设置为中文版本，包括通过官方方法和直接下载中文版的步骤，以及解决可能出现的问题。
+meta_description: "Telegram 改成中文界面：iOS/Android/Desktop 各端语言包与内置简体中文切换路径，第三方汉化客户端的风险提示；若列表里没有中文，如何检查区域、应用版本与缓存清理步骤，帮助国内用户尽快把菜单与通知读顺。"
 author: "lvwa"
 header-style: text
 catalog:      true
