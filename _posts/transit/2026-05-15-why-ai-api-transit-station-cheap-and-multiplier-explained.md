@@ -8,8 +8,6 @@ catalog:      true
 date:         2026-05-15 16:45:00
 tags:
     - transit
-    - ai
-    - api
 seo_title:    "AI API 中转站为什么便宜？倍率机制完全解析｜2026"
 meta_description: "详解 AI API 中转站的低价原因和倍率计费机制。从 Token 计费基础到中转站的官转、逆向渠道、倍率折算，帮你看懂账单避免踩坑。"
 ---

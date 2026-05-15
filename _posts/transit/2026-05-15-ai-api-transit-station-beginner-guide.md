@@ -8,8 +8,6 @@ catalog:      true
 date:         2026-05-15 17:30:00
 tags:
     - transit
-    - ai
-    - tutorial
 seo_title:    "AI API 中转站新手使用指南｜2026 完整教程"
 meta_description: "2026年最新 AI API 中转站使用教程。手把手教你注册、获取 API Key、配置客户端，5 分钟用上 GPT、Claude 等大模型 API。"
 ---

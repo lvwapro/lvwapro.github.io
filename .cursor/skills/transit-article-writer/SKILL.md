@@ -260,7 +260,7 @@ curl -L -o img/YYYY-MM-DD/descriptive-name.png "https://外站图片URL" \
 - `header-style`: 固定为 `text`
 - `catalog`: 固定为 `true`
 - `date`: 当天日期 `YYYY-MM-DD HH:MM:SS`
-- `tags`: 文章分类标签（数组格式，优先使用：transit, ai, api, tutorial）
+- `tags`: 文章分类标签（数组格式，统一使用 `transit` 单标签）
 - `seo_title`: SEO 标题，含关键词，60 字符以内
 - `meta_description`: SEO 描述（50-200 字符），含关键词
 

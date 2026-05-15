@@ -8,8 +8,6 @@ catalog:      true
 date:         2026-05-15 18:00:00
 tags:
     - transit
-    - ai
-    - tutorial
 seo_title:    "AI API 中转站检测指南：如何验证模型是否被偷梁换柱｜2026"
 meta_description: "教你用 5 种方法检测 AI API 中转站是否偷梁换柱、模型降级或暗改倍率。包含 Python 代码和实操步骤，防止花高价买到低档模型。"
 ---
