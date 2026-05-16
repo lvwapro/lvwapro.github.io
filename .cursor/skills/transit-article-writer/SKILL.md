@@ -210,9 +210,9 @@ curl -L -o img/YYYY-MM-DD/descriptive-name.png "https://外站图片URL" \
 ```
 
 **下载失败的备选方案：**
-- 外站有防盗链 → 尝试不带 Referer 或使用 `take_screenshot` 截图代替
+- 外站有防盗链 → 尝试不带 Referer 重新下载
 - 图片已失效 → 跳过该图片
-- 参考文章无合适配图 → 用 `take_screenshot` 截取参考页面的关键段落
+- 参考文章无合适配图 → 跳过配图，保证文字内容质量
 
 **图片使用原则：**
 - 每篇文章至少 2-4 张配图
