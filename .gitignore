@@ -4,6 +4,7 @@ _posts/_archive
 _archive
 node_modules
 .vscode
+.cursor
 *.log
 *.lock
 *.sh
